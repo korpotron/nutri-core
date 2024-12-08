@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "D71E338C-3B32-4933-9DE2-300E0717D61E",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "NutriCoreTests",
+        "name" : "NutriCoreTests"
+      }
+    }
+  ],
+  "version" : 1
+}
